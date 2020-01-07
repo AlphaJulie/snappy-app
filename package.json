@@ -1,0 +1,20 @@
+{
+  "name": "snappy-lambda",
+  "version": "1.0.0",
+  "description": "Application to process the restricted companies based on the user stories",
+  "main": "app.js",
+  "author": "Alpha",
+  "license": "MIT",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
