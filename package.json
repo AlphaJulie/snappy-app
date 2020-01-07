@@ -1,5 +1,5 @@
 {
-  "name": "snappy-lambda",
+  "name": "snappy",
   "version": "1.0.0",
   "description": "Application to process the restricted companies based on the user stories",
   "main": "app.js",
